@@ -1,0 +1,11 @@
+factor-analyzer==0.4.0
+pandas==1.3.5
+numpy=1.22.2
+scikit-lear==0.23.2
+seaborn==0.11.2
+matplotlib==3.5.1
+
+
+
+
+
